@@ -8,4 +8,5 @@
 - https://pyserial.readthedocs.io/en/latest/examples.html
 - https://www.cyberciti.biz/faq/find-out-linux-serial-ports-with-setserial/
 - http://fabacademy.org/2018/docs/FabAcademy-Tutorials/week16_interface_and_application_programming/python_web.html
+- https://www.youtube.com/watch?v=xBzX4wrxnoY
   
